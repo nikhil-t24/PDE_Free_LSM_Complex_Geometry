@@ -1,7 +1,7 @@
 <h2>PDE-free Level Set Method: On Lagrangian Advection and Geometric Reinitialization of the Interface in a Complex Geometry</h2>
 
 <p>
-This repository contains the codes for PDE-free LSM solver with novel Geometric Reiniialization and Lagrangian Advection on a Curvilinear Structured Grid.
+This repository contains the codes for PDE-free LSM solver with novel Geometric Reinitialization and Lagrangian Advection in a Curvilinear Structured Grid. The test problem considered is "Time-reversed single vortex test"
 </p>
 
 <h2>Software requirements</h2>
